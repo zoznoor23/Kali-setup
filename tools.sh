@@ -1,5 +1,5 @@
 sudo apt update
-sudo apt upgrade
+sudo apt upgrade -y
 wget https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
 wget https://github.com/RickdeJager/stegseek/releases/download/v0.6/stegseek_0.6-1.deb
 wget https://download.sublimetext.com/sublime-text_build-4143_amd64.deb
